@@ -1,0 +1,89 @@
+body {
+    font-size: 12px;
+}
+.table-responsive {
+    font-size: 1em;
+}
+#side-menu > li > a {
+    padding: 10px 20px 10px 20px;
+}
+.sidebar #side-menu .user-pro > a {
+    padding: 10px 7px 10px 10px !important;
+}
+#side-menu > li > a.active {
+    border-left: 5px solid #03a9f3;
+    padding-left: 13px;
+    color: #03a9f3;    
+}
+/* .container-fluid {
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+} */
+.analytics-info .list-inline li i {
+    font-size: 34px;
+}
+.bg-title {
+    padding: 5px 25px 5px 25px;
+    margin-bottom: 10px;
+}
+.white-box {
+    padding: 20px 20px 20px 20px;
+}
+
+.tarif {
+    padding: 175px 30px 175px 30px;
+}
+
+.img-logo {
+    width: 265px;
+    height: auto;
+}
+
+.img-pemda {
+    width: 88px;
+    height: auto;
+}
+
+.credit-login {
+    width: 50px;
+}
+
+.card-block-warga_detail{
+	font-size: 2em;
+}
+.ribbon-wrapper, .ribbon-wrapper-bottom, .ribbon-wrapper-reverse, .ribbon-wrapper-right-bottom {
+    padding: 50px 15px 15px 20px;
+}
+.no_wrap{
+    white-space: nowrap;
+}
+
+.row-title {
+    background-color: rgba(56, 179, 239, .1)
+}
+
+.alert-sm{
+    height: 30px;
+    padding: .75rem 1.25rem;
+}
+
+.jstree-default a.jstree-search { 
+    color:#00BCD4;
+    font-style: normal;
+    font-weight: normal; 
+}
+.box-title i {
+    font-size: 12px;
+}
+.select-provider{
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
+}
+#provider-select{
+    border: #029de0 1px solid;
+    border-top: #029de0 3px solid;
+}
+
+.dr_button {
+    font-size: 12px;
+}
