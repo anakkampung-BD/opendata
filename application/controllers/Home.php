@@ -17,21 +17,35 @@ class Home extends CI_Controller {
 		$this->load->view('part/f_footer', $data);
 	}
 
-	public function getDataSet($keyword)
+	public function getDataSet()
 	{
-		if ($keyword == '') {
+		$keyword = $this->input->post('cari');
+
+		if ($keyword == null) {
 
 			$data = [
-				'title' => 'Home',
+				'title' => 'Cari Data',
 			];
 
 			$this->load->view('part/f_header', $data);
-			$this->load->view('home/home', $data);
+			$this->load->view('home/search', $data);
 			$this->load->view('part/f_footer', $data);
 
 		} else {
 
-			
+			$keyword = $this->input->post('cari');
+
+			$dataset = 1;
+
+			$data = [
+				'title' => 'Cari Data',
+				'keyword' => $keyword,
+				'dataset' => $dataset
+			];
+
+			$this->load->view('part/f_header', $data);
+			$this->load->view('home/search_result', $data);
+			$this->load->view('part/f_footer', $data);
 
 		}
 	}

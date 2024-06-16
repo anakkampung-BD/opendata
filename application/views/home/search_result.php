@@ -33,215 +33,127 @@
     <section class="pt-4 pb-3">
         <div class="container">
             <div class="topic-outer">
-                <h5 class="mb-3">Pilih Kategori</h5>
-                <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 mx-n4 justify-content-center">
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pariwisata
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/pemerintahan.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pemerintahan
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pariwisata
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/pemerintahan.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pemerintahan
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pariwisata
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/pemerintahan.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pemerintahan
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pariwisata
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/pemerintahan.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pemerintahan
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pariwisata
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/pemerintahan.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Pemerintahan
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col px-2">
-                        <a href="<?= base_url(); ?>" class="box-topic">
-                            <figure class="box-topic__img flex-none m-0 mb-2">
-                                <img src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                            </figure>
-                            <div class="box-topic__content">
-                                Global
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+                <h5 class="mb-3">Hasil pencarian untuk: <?= $keyword; ?></h5>
+                <!-- Start -->
+                <div class="mb-3 box-infografis-wrapper">
+                    <div class="row">
 
-    <p id="flash"></p>
+                        <?php if ($dataset == 0) : ?>
+                            <p>Data yang anda cari tidak ditemukan...</p>
+                        <?php else : ?>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-4">
+                                <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                                    <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
+                                        <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    </figure>
+                                    <div class="box-infografis__content p-3">
+                                        <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
+                                                <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            </li>
+                                            <li class="fs-8 text-muted" style="line-height: 1.15">
+                                                <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </a>
+                            </div>
+                        <?php endif; ?>
 
-    <!-- Statistik Interaksi -->
-    <section class="bg-app-primary statistic-section">
-        <img class="surf-pattern" src="<?= base_url(); ?>public/y/img/pattern/surf.png" />
-        <img class="statistic-pattern-2" src="https://opendata.jatimprov.go.id/frontend/img/pattern1.png" />
-        <div class="container">
-            <h3 class="mb-4 text-center text-light font-weight-bold text-app-shadow">Statistik Interaksi Satu Data Mentawai</h3>
-            <div class="row mx-n2">
-                <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/dataset" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
-                        <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/surf.png" />
-                        <div class="text-center h1 font-weight-bold mb-2">230</div>
-                        <div class="text-center h4">Surfing</div>
-                    </a>
+                    </div>
                 </div>
-                <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/infografik" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
-                        <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
-                        <div class="text-center h1 font-weight-bold mb-2">223</div>
-                        <div class="text-center h4">Mancanegara</div>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/sektoral" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
-                        <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
-                        <div class="text-center h1 font-weight-bold mb-2">65</div>
-                        <div class="text-center h4">Lokal</div>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-6 px-2" style="padding-top: 12px;">
-                    <a href="#" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
-                        <div class="text-center h1 font-weight-bold mb-2">0</div>
-                        <div class="text-center h4">Visitor</div>
-                    </a>
-                </div>
-                <div class="col-12 col-lg-6 px-2" style="padding-top: 12px;">
-                    <a href="#" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
-                        <div class="text-center h1 font-weight-bold mb-2">0</div>
-                        <div class="text-center h4">Download</div>
-                    </a>
-                </div>
+                <!-- End -->
             </div>
         </div>
     </section>
