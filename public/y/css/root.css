@@ -1,0 +1,19 @@
+:root {
+    --rz-font-size: 16px;
+    
+    /* --rz-primary-color: #064663;
+    --rz-secondary-color: #EBA02F; */
+
+    /* --rz-primary-color: #fe9435; */
+    --rz-primary-color: #e1791b;
+    --rz-primary-color-700: #e1791b;
+    --rz-secondary-color: #3879f3;
+    --rz-statistic-color: #ffffff;
+    --rz-footerbg-color: #03286d;
+
+    --rz-border-radius-xxl: 80px;
+    
+    --rz-header-height: 85px;
+    --rz-header-height-sticky: 70px;
+    --rz-header-height-sm: 65px;
+}

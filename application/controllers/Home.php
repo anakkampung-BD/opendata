@@ -3,36 +3,36 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends CI_Controller {
 
-	public function __construct()
-	{
-		parent::__construct();
-		// $this->load->library('form_validation');
-
-		// $this->load->model('admin_model');
-	}
-
 	public function index()
 	{
+		// GetInfoAppsOwner
+		
 
 		$data = [
 			'title' => 'Home',
-			'brand' => 'SATUDATA',
-			'owner' => 'Pemerintah Kab. Kep. Mentawai',
-			// 'identitas' => $this->admin_model->getIdentity()->result_array()
 		];
-		
-		$this->load->view('_home/_landing_page', $data);
-		
+
+		$this->load->view('part/f_header', $data);
+		$this->load->view('home/home', $data);
+		$this->load->view('part/f_footer', $data);
 	}
 
-	public function op1()
+	public function getDataSet($keyword)
 	{
-		$data = [
-			'title' => 'Option One',
-			'brand' => 'SATUDATA',
-			'owner' => 'Pemerintah Kab. Kep. Mentawai',
-		];
+		if ($keyword == '') {
 
-		$this->load->view('_home/_op1', $data);
+			$data = [
+				'title' => 'Home',
+			];
+
+			$this->load->view('part/f_header', $data);
+			$this->load->view('home/home', $data);
+			$this->load->view('part/f_footer', $data);
+
+		} else {
+
+			
+
+		}
 	}
 }
