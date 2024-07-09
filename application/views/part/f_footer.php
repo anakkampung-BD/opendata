@@ -40,16 +40,12 @@
 </footer>
 
 <div class="floating-toolbar">
-    <a href="https://opendata.jatimprov.go.id/frontend/tfeedback/form_survey" target="_blank" class="fs-7 btn toolbar-item">
-        <i class="icon fs-6 bi-clipboard-minus-fill"></i>Survey
-    </a>
-    <a href="https://opendata.jatimprov.go.id/frontend/top-ranking-activities" class="fs-7 btn toolbar-item" data-toggle="modal" data-target="#modalDrawerLeft">
-        <i class="icon fs-6"></i> Top Rank
-    </a>
+    <a href="<?= base_url(); ?>" target="_blank" class="btn toolbar-item bg-success"><i class="fa fa-whatsapp text-white"></i> Contact</a>
+    <a href="<?= base_url(); ?>" class="btn toolbar-item bg-success" data-toggle="modal" data-target="#modalDrawerLeft"><i class="fa fa-pen"></i> Isi Survey</a>
 </div>
 
 <div class="feedback-outer">
-    <a href="https://opendata.jatimprov.go.id/frontend/dataset/request" class="feedback" data-toggle="modal" data-target="#modalDrawer">
+    <a href="<?= base_url();?>fr/call" class="feedback" data-toggle="modal" data-target="#modalDrawer">
         <img src="<?= base_url(); ?>public/y/img/call-center/call-center.png" alt="Image Dataset Suggestion" />
     </a>
 </div>

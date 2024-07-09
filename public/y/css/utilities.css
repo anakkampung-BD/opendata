@@ -7,7 +7,7 @@
 .fs-7 { font-size: 0.875rem !important; }
 .fs-8 { font-size: 0.75rem !important; }
 .flex-none { flex: none !important; }
-.bg-app-primary { background-color: var(--rz-primary-color) !important; }
+.bg-app-primary { background-color: var(--rz-third-color) !important; }
 .bg-app-primary-gradient {  
   background-color: var(--rz-secondary-color) !important;
   background-image: linear-gradient(to right, var(--rz-secondary-color), #335cbb) !important;

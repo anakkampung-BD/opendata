@@ -10,7 +10,7 @@
                         Satu Data Mentawai
                     </div>
                     <div class="home-hero__subtitle mb-4 text-center text-white">
-                        Temukan inovasi dan transparansi melalui Open Data.
+                        Anai Leu' Sita!
                     </div>
 
                     <div class="search-global mb-0">
@@ -205,29 +205,28 @@
     <!-- Statistik Interaksi -->
     <section class="bg-app-primary statistic-section">
         <img class="surf-pattern" src="<?= base_url(); ?>public/y/img/pattern/surf.png" />
-        <img class="statistic-pattern-2" src="https://opendata.jatimprov.go.id/frontend/img/pattern1.png" />
         <div class="container">
             <h3 class="mb-4 text-center text-light font-weight-bold text-app-shadow">Statistik Interaksi Satu Data Mentawai</h3>
             <div class="row mx-n2">
                 <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/dataset" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
+                    <a href="<?= base_url(); ?>frontend/dataset" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
                         <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/surf.png" />
                         <div class="text-center h1 font-weight-bold mb-2">230</div>
-                        <div class="text-center h4">Surfing</div>
+                        <div class="text-center h4">Dataset</div>
                     </a>
                 </div>
                 <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/infografik" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
+                    <a href="<?= base_url(); ?>frontend/organisasi" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
                         <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/backpacker.png" />
                         <div class="text-center h1 font-weight-bold mb-2">223</div>
-                        <div class="text-center h4">Mancanegara</div>
+                        <div class="text-center h4">Organisasi</div>
                     </a>
                 </div>
                 <div class="col-12 col-lg-4 px-2">
-                    <a href="https://opendata.jatimprov.go.id/frontend/sektoral" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
+                    <a href="<?= base_url(); ?>frontend/topic" class="box-statistic mb-3 mb-lg-0 bg-app-secondary rounded-app p-4">
                         <img class="surf-counter" src="<?= base_url(); ?>public/y/img/pattern/backpacker_local.png" />
                         <div class="text-center h1 font-weight-bold mb-2">65</div>
-                        <div class="text-center h4">Lokal</div>
+                        <div class="text-center h4">Topik</div>
                     </a>
                 </div>
                 <div class="col-12 col-lg-6 px-2" style="padding-top: 12px;">
@@ -252,7 +251,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h5>Frequently Asked Questions</h5>
+                        <h5>Artikel Terbaru</h5>
                     </div>
                 </div>
             </div>

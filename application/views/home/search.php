@@ -10,7 +10,7 @@
                         Satu Data Mentawai
                     </div>
                     <div class="home-hero__subtitle mb-4 text-center text-white">
-                        Temukan inovasi dan transparansi melalui Open Data.
+                        Anai Leu' Sita!
                     </div>
 
                     <div class="search-global mb-0">
@@ -38,108 +38,54 @@
                 <div class="mb-3 box-infografis-wrapper">
                     <div class="row">
                         <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                            <a href="<?= base_url(); ?>frontend/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Sample Dataset">
                                 <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    <img src="<?= base_url(); ?>public/y/img/bg.jpg">
                                 </figure>
                                 <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Tato Mentawai</h6>
                                     <ul class="list-unstyled mb-0">
                                         <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            <i class="fa fa-suitcase mr-2 text-muted"></i> Dinas Pariwisata Kab. Kep. Mentawai
                                         </li>
                                         <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            <i class="fa fa-eye mr-2 text-muted"></i> 5 kali
                                         </li>
                                     </ul>
                                 </div>
                             </a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                            <a href="<?= base_url(); ?>frontend/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Sample Dataset">
                                 <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    <img src="<?= base_url(); ?>public/y/img/bg.jpg">
                                 </figure>
                                 <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Tato Mentawai</h6>
                                     <ul class="list-unstyled mb-0">
                                         <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            <i class="fa fa-suitcase mr-2 text-muted"></i> Dinas Pariwisata Kab. Kep. Mentawai
                                         </li>
                                         <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            <i class="fa fa-eye mr-2 text-muted"></i> 5 kali
                                         </li>
                                     </ul>
                                 </div>
                             </a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
+                            <a href="<?= base_url(); ?>frontend/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Sample Dataset">
                                 <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
+                                    <img src="<?= base_url(); ?>public/y/img/bg.jpg">
                                 </figure>
                                 <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
+                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Tato Mentawai</h6>
                                     <ul class="list-unstyled mb-0">
                                         <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
+                                            <i class="fa fa-suitcase mr-2 text-muted"></i> Dinas Pariwisata Kab. Kep. Mentawai
                                         </li>
                                         <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
-                                <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
-                                </figure>
-                                <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
-                                        </li>
-                                        <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
-                                <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
-                                </figure>
-                                <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
-                                        </li>
-                                        <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <a href="/frontend/infografik/detail/268" class="box-infografis d-block shadow-app rounded-app mb-4" title="Stop Pekerja Anak">
-                                <figure class="box-infografis__img rz-ratio rz-ratio-1x1 mb-0">
-                                    <img src="/uploads/f1ad01791749cc6143d4f95f667d25f2.jpg" alt="" />
-                                </figure>
-                                <div class="box-infografis__content p-3">
-                                    <h6 class="fs-7 text-app-primary max-lines mb-3">Stop Pekerja Anak</h6>
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="fs-8 text-muted d-flex align-items-start mb-2" style="line-height: 1.15">
-                                            <i class="fs-6 bi-briefcase-fill mr-2 text-muted"></i> Dinas Komunikasi dan Informatika Provinsi Jawa Timur
-                                        </li>
-                                        <li class="fs-8 text-muted" style="line-height: 1.15">
-                                            <i class="fs-6 bi-eye-fill mr-2 text-muted"></i> 5
+                                            <i class="fa fa-eye mr-2 text-muted"></i> 5 kali
                                         </li>
                                     </ul>
                                 </div>
@@ -158,7 +104,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h5>Frequently Asked Questions</h5>
+                        <h5>Artikel Terbaru</h5>
                     </div>
                 </div>
             </div>
@@ -179,7 +125,7 @@
                                         </div>
                                         <div class="cont">
                                             <div class="info">
-                                                <a>27 May 2024</a>
+                                                <a><?= date('d-m-Y'); ?></a>
                                                 <span>
                                                     <i class="fa fa-eye"></i> 112 Kali
                                                     <i class="fa fa-user-circle-o"></i> Dinas Pariwisata
@@ -210,7 +156,7 @@
                                         </div>
                                         <div class="cont">
                                             <div class="info">
-                                                <a>27 May 2024</a>
+                                                <a><?= date('d-m-Y'); ?></a>
                                                 <span>
                                                     <i class="fa fa-eye"></i> 112 Kali
                                                     <i class="fa fa-user-circle-o"></i> Dinas Pariwisata
@@ -241,7 +187,7 @@
                                         </div>
                                         <div class="cont">
                                             <div class="info">
-                                                <a>27 May 2024</a>
+                                                <a><?= date('d-m-Y'); ?></a>
                                                 <span>
                                                     <i class="fa fa-eye"></i> 112 Kali
                                                     <i class="fa fa-user-circle-o"></i> Dinas Pariwisata
